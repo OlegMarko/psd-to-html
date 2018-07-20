@@ -1,1 +1,1 @@
-## [Open Preview](git@github.com:OlegMarko/psd-to-html.git)
+## [Open Preview](https://olegmarko.github.io/psd-to-html/)
